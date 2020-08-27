@@ -14,9 +14,6 @@
     "tckimlik",
     "tckn"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "author": "Emre Colakoglu <emrinho@gmail.com>",
   "license": "ISC",
   "dependencies": {
