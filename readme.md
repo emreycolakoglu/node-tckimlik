@@ -1,5 +1,10 @@
 # NODE-TCKIMLIK
 
+
+![Node.js CI](https://github.com/emreycolakoglu/node-tckimlik/workflows/Node.js%20CI/badge.svg?branch=master)
+![Node.js Package](https://github.com/emreycolakoglu/node-tckimlik/workflows/Node.js%20Package/badge.svg?branch=0.02)
+
+
 ## Kullanım
 
 ```
