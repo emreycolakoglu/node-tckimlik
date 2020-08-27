@@ -1,6 +1,6 @@
 {
   "name": "node-tckimlik",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node-tckimlik uses NVI endpoints to validate Turkish Republic identity numbers",
   "main": "./index.js",
   "scripts": {
