@@ -5,6 +5,14 @@
 ![Node.js Package](https://github.com/emreycolakoglu/node-tckimlik/workflows/Node.js%20Package/badge.svg?branch=0.02)
 
 
+## Kurulum
+
+``` npm install node-tckimlik ```
+
+or
+
+``` yarn add node-tckimlik ``` 
+
 ## Kullanım
 
 ```
@@ -27,3 +35,7 @@ clientPromise
 
 
 ```
+
+## Parametreler
+
+[bu linke](https://tckimlik.nvi.gov.tr/Service/KPSPublicV2.asmx?op=KisiVeCuzdanDogrula) tıklayarak parametre listesini görebilirsiniz.
